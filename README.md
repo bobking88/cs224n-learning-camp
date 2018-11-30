@@ -16,11 +16,13 @@
 5. [深度学习经典论文](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap.git)
 6. [斯坦福cs229代码(机器学习算法python徒手实现)](https://github.com/nsoojin/coursera-ml-py.git)  
 7. [吴恩达机器学习新书：machine learning yearning](https://github.com/AcceptedDoge/machine-learning-yearning-cn)  
-7. [清华大学NLP实验室总结机器阅读论文、数据集](https://github.com/thunlp/RCPapers)  
-8. [本人博客(机器学习基础算法专题)](https://blog.csdn.net/dukuku5038/article/details/82253966)  
-9. [本人博客(深度学习专题)](https://blog.csdn.net/column/details/28693.html)  
-10. [斯坦福cs20I课件](https://github.com/learning511/cs224n-learning-camp/tree/master/cs20is)  
-11. [AI比赛经验+开源代码汇总](https://blog.csdn.net/dukuku5038/article/details/84195750)  
+7. [哈佛大学NLP实验室](http://nlp.seas.harvard.edu/)  
+8. [清华大学NLP实验室总结机器阅读论文、数据集](https://github.com/thunlp/RCPapers)  
+9. [本人博客(机器学习基础算法专题)](https://blog.csdn.net/dukuku5038/article/details/82253966)  
+10. [本人博客(深度学习专题)](https://blog.csdn.net/column/details/28693.html)  
+11. [斯坦福cs20I课件](https://github.com/learning511/cs224n-learning-camp/tree/master/cs20is)  
+12. [AI比赛经验+开源代码汇总](https://blog.csdn.net/dukuku5038/article/details/84195750)  
+13. [Deep Learning in Natural Language Processing(微软：邓力博士,清华：刘洋博士)](https://github.com/learning511/cs224n-learning-camp/blob/master/resources/Deep%2BLearning%2Bin%2BNatural%2BLanguage%2BProcessing.pdf)  
 
 ## 前言
 自然语言是人类智慧的结晶，自然语言处理是人工智能中最为困难的问题之一，而对自然语言处理的研究也是充满魅力和挑战的。
@@ -63,7 +65,7 @@
 - 周三、周六休息^_^  
 
 #### 作业提交指南：  
- 训练营的作业自检系统已经正式上线啦！只需将作业发送到训练营公共邮箱即可，知识星球以打卡为主，不用提交作业。以下为注意事项:  
+ 训练营的作业自检系统已经正式上线啦！只需将作业发送到训练营公共邮箱即可，训练营以打卡为主，不用提交作业。以下为注意事项:  
 <0> 课程资料：[链接](https://pan.baidu.com/s/1p1J9kyoNZIwqCRmaX6lvoQ) 密码：zwjr  
 <1> 训练营代码公共邮箱：cs224n@163.com  
 <2> [查询自己成绩:](https://shimo.im/sheet/fUz1SurlKPgAMecw/RIDOC)  
@@ -114,7 +116,7 @@
 - **学习笔记:** [反向传播与项目指导](http://www.hankcs.com/nlp/cs224n-backpropagation-and-project-advice.html)
 
 2. 依赖解析：Dependency Parsing 
-- **课件:** [lecture06](https://github.com/learning511/cs224n-learning-camp/blob/master/lecture-notes/cs224n-2017-lecture3.pdf)
+- **课件:** [lecture06](https://github.com/learning511/cs224n-learning-camp/blob/master/lecture-notes/cs224n-2017-lecture6.pdf)
 - [观看视频6](https://www.bilibili.com/video/av30326868/?p=6)
 - **学习笔记:** [句法分析和依赖解析](http://www.hankcs.com/nlp/cs224n-dependency-parsing.html)
 
@@ -122,8 +124,9 @@
 - **论文原文:** [paper](https://github.com/learning511/cs224n-learning-camp/blob/master/paper/Bag%20of%20Tricks%20for%20Efficient%20Text%20Classification.pdf)
 - **论文分析:** [highlight](https://github.com/learning511/cs224n-learning-camp/blob/master/paper/highlight/cs224n-2017-lecture3-highlight.pdf)
 - **论文笔记：**[高效文本分类](http://www.hankcs.com/nlp/cs224n-bag-of-tricks-for-efficient-text-classification.html)
-4.  作业: [Assignment 2.2](https://github.com/learning511/cs224n-learning-camp/blob/master/Assignmnet.md) 
-- 2.2 Neural Transition-Based Dependency Parsing 基于神经网络的依赖分析
+4.  作业: [Assignment 2 准备](https://github.com/learning511/cs224n-learning-camp/blob/master/Assignmnet.md) 
+- 2.0.1 预习TensorFlow  
+- 2.0.2 仔细阅读作业2的要求，自学作业里要求里提到的神经网络训练方法  
 
 ### Week4
 1. TensorFlow入门
@@ -141,7 +144,8 @@
 - **论文分析:** [highlight](https://github.com/learning511/cs224n-learning-camp/blob/master/paper/highlight/cs224n-2017-lecture4-highlight.pdf)
 - **论文笔记：**[词嵌入对传统方法的启发](http://www.hankcs.com/nlp/cs224n-improve-word-embeddings.html)
 4. 作业：[Assignment 2.1](https://github.com/learning511/cs224n-learning-camp/blob/master/Assignmnet.md)  
-- 2.1 Tensorflow Softmax 基于TensorFlow的softmax分类
+- 2.1 Tensorflow Softmax 基于TensorFlow的softmax分类  
+- 2.2 Neural Transition-Based Dependency Parsing 基于神经网络的依赖分析  
 
 ### Week5
 1.  高级LSTM及GRU：LSTM and GRU
